@@ -1,0 +1,10 @@
+[global]
+access control = no
+port = 1701
+
+[lac jqtvpn]
+name = jqtvpn
+lns = 218.201.28.20
+pppoptfile = /etc/ppp/peers/jqtvpn.l2tpd
+ppp debug = no
+

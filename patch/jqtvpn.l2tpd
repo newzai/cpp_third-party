@@ -1,0 +1,14 @@
+remotename jqtvpn
+user "iptvpn28"
+password "ipt%28sv"
+unit 0
+lock
+nodeflate
+nobsdcomp
+noauth
+persist
+nopcomp
+noaccomp
+maxfail 5
+debug
+
