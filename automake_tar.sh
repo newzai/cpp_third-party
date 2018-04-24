@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /opt/devel/server/tarfile
+
 mkdir -p .result
 mkdir -p .result/download
 mkdir -p build
